@@ -1,6 +1,5 @@
 {
   "enabledPlugins": {
-    "independent-reviewer@independent-reviewer": true,
     "context7@claude-plugins-official": true
   }
 }
